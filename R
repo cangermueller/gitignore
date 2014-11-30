@@ -1,0 +1,11 @@
+*~
+.*.swp
+/tmp/
+*.DS_Store
+
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user
+*.Rproj
+*_cache/
